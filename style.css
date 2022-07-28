@@ -1,32 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
-.custom-text{
-    font-family: 'Poppins', sans-serif;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 27px;
-    text-align: center;
-
-color: #777777;
-}
 #nav-space li{
      margin-right: 50px;
 }
 
-.carousel-caption{
-    position: absolute;
-    z-index: 2;
-    background-color: #080d15;
-    opacity: .7;
-    top:0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-}
-.carousel-text{
-    position: relative;
-    top:50%;
-    bottom: 50%;
-    text-align: center;
-    padding-left: 30%;
-    padding-right: 30%;
-}
