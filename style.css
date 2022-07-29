@@ -2,3 +2,13 @@
      margin-right: 50px;
 }
 
+.elearn{
+    background-color: #289BDE;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.elearn:hover{
+    background-color: #0087d5;
+}
