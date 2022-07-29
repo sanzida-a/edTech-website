@@ -12,3 +12,14 @@
 .elearn:hover{
     background-color: #0087d5;
 }
+.elearn-rev{
+    background-color: #fff;
+    color:  #289BDE;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
+h1{
+    font-size: 65px;
+}
