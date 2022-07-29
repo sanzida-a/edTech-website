@@ -8,6 +8,7 @@
     border: none;
     border-radius: 8px;
     padding: 9px 25px;
+    white-space: nowrap;
 }
 .elearn:hover{
     background-color: #0087d5;
